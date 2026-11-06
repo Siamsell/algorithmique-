@@ -1,6 +1,5 @@
 # Compile tous les programmes dans le dossier build/
-#   make        -> compile tout
-#   make clean  -> supprime build/
+
 CC  = gcc
 CXX = g++
 CFLAGS   = -Wall -Wextra -std=c11
