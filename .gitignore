@@ -1,0 +1,19 @@
+# Fichiers compilés
+build/
+*.exe
+*.o
+*.out
+bin/
+obj/
+
+# Fichiers d'IDE (Code::Blocks, Dev-C++, VS Code)
+*.cbp
+*.layout
+*.depend
+*.dev
+.vscode/
+
+# Données générées à l'exécution
+database/
+etudiants.txt
+etudiants.bin
